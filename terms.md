@@ -1,9 +1,9 @@
-# Terms of Use — Invoice Builder
+# Terms of Use — Easy Invoice Builder
 
-**Effective date: May 14, 2026**
-**Last updated: May 14, 2026**
+**Effective date: May 17, 2026**
+**Last updated: May 17, 2026**
 
-These Terms of Use ("Terms") govern your use of the Invoice Builder mobile application (the "App"), provided by Zenith Technology Enterprises LLC ("we", "us", "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") govern your use of the Easy Invoice Builder mobile application (the "App"), provided by Zenith Technology Enterprises LLC ("we", "us", "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ## 1. License
 
@@ -27,7 +27,7 @@ New subscribers are eligible for a **7-day free trial** of either monthly or ann
 
 You can cancel a subscription or manage your free trial at any time:
 
-- **Apple App Store:** Settings → [your Apple ID] → Subscriptions → Invoice Builder, or via https://apps.apple.com/account/subscriptions
+- **Apple App Store:** Settings → [your Apple ID] → Subscriptions → Easy Invoice Builder, or via https://apps.apple.com/account/subscriptions
 - **Google Play:** Google Play Store app → Profile → Payments & subscriptions → Subscriptions, or via https://play.google.com/store/account/subscriptions
 - **Amazon Appstore:** Amazon account → Memberships & Subscriptions
 

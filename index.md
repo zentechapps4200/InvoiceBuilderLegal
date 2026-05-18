@@ -1,4 +1,4 @@
-# Invoice Builder — Legal
+# Easy Invoice Builder — Legal
 
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)
